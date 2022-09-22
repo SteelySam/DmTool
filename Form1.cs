@@ -128,6 +128,8 @@ namespace DmTool
         {
             // generate an npc...
             txtResult.Text = "here is an NPC...";
+
+            // tap database of NPC traits
         }
 
         private void btnClear_Click(object sender, EventArgs e)
